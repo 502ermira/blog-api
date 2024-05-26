@@ -24,6 +24,10 @@ const blogSchema = new mongoose.Schema({
   image: {
     type: String,
     required: true
+  },
+  keywords: {
+    type: [String],
+    required: false
   }
 });
 
