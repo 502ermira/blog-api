@@ -4,7 +4,7 @@ This repository contains a serverless API built using Node.js, Express.js, and M
 
 * This API solely focuses on retrieving data. The backend logic for managing the data, including CRUD operations, is maintained separately and resides elsewhere. Users of this API should understand that it's specifically for fetching blog information and not for performing administrative tasks on the data.
 
-To access the blog data, make a GET request to: `https://blog-serverless-htftxigia-ermiras-projects-cb44b1b3.vercel.app/`
+To access the blog data, make a GET request to: `https://blog-serverless-pfp7ahsx7-ermiras-projects-cb44b1b3.vercel.app/`
 
 The API will respond with a JSON payload containing the blog data stored in the MongoDB database.
 
